@@ -1,0 +1,27 @@
+{
+  "name": "gfam-air-drop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GdayFam/gfam-air-drop.git"
+  },
+  "keywords": [],
+  "author": "rayGreycloud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GdayFam/gfam-air-drop/issues"
+  },
+  "homepage": "https://github.com/GdayFam/gfam-air-drop#readme",
+  "dependencies": {
+    "xrpl": "^2.5.0-beta.1",
+    "xrpl-secret-numbers": "^0.3.3"
+  },
+  "devDependencies": {
+    "electron": "^20.1.4"
+  }
+}

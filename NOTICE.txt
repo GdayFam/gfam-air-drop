@@ -1,0 +1,16 @@
+NOTICE
+
+"Files" refers to the following files in this repo:
+  (1) `/utils/payout.js`
+  (2) `/utils/xrp.js`
+
+"Works" refers to the code contained in these GitHub repos: 
+  (1) xrp-batch-payment by Ripple
+      https://github.com/ripple/xrp-batch-payout
+  (2) xrpl-token-distributor by nixer89
+      https://github.com/nixer89/xrpl-token-distributor
+
+"Licenses" refers to the Apache-2.0 license(s) that the Files and the Works are subject to.   
+
+The Files are derivative works of the Works and are thereby subject to the Licenses applicable to the Works. 
+
